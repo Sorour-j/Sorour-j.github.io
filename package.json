@@ -1,8 +1,8 @@
 {
-  "name": "personalwebsite1",
+  "homepage": "https://Sorour-j.github.io/personal-web",
+  "name": "personal-web",
   "version": "0.1.0",
   "private": true,
-  "homepage": "/new/web/",
   "dependencies": {
     "@material-ui/core": "^4.11.2",
     "@material-ui/icons": "^4.11.2",
@@ -41,5 +41,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^3.2.3"
   }
 }
