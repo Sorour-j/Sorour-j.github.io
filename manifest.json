@@ -1,7 +1,6 @@
 {
-  "short_name": "Sorour Jahanbin",
-  "name": "Sorour Jahanbin",
-  "description": "I'm Sorour Jahanbin & Early Stage Researcher",
+  "short_name": "React App",
+  "name": "Create React App Sample",
   "icons": [
     {
       "src": "favicon.ico",
