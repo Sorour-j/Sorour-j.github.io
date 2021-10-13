@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.js": "/personal-web/static/js/main.b9d4a0b1.chunk.js",
-    "main.js.map": "/personal-web/static/js/main.b9d4a0b1.chunk.js.map",
-    "runtime-main.js": "/personal-web/static/js/runtime-main.b41aec4d.js",
-    "runtime-main.js.map": "/personal-web/static/js/runtime-main.b41aec4d.js.map",
-    "static/js/2.492d1143.chunk.js": "/personal-web/static/js/2.492d1143.chunk.js",
-    "static/js/2.492d1143.chunk.js.map": "/personal-web/static/js/2.492d1143.chunk.js.map",
-    "index.html": "/personal-web/index.html",
-    "static/js/2.492d1143.chunk.js.LICENSE.txt": "/personal-web/static/js/2.492d1143.chunk.js.LICENSE.txt",
-    "static/media/SorourJahanbin_CV.fd8742e9.pdf": "/personal-web/static/media/SorourJahanbin_CV.fd8742e9.pdf",
-    "static/media/avatar.970f3827.jpg": "/personal-web/static/media/avatar.970f3827.jpg",
-    "static/media/hero.f30e01c1.jpg": "/personal-web/static/media/hero.f30e01c1.jpg",
-    "static/media/me.bd2549ce.jpg": "/personal-web/static/media/me.bd2549ce.jpg",
-    "static/media/portfolio1.5ecbac3f.jpg": "/personal-web/static/media/portfolio1.5ecbac3f.jpg",
-    "static/media/portfolio2.c0c6c7e8.jpg": "/personal-web/static/media/portfolio2.c0c6c7e8.jpg",
-    "static/media/portfolio3.56c400f6.jpg": "/personal-web/static/media/portfolio3.56c400f6.jpg",
-    "static/media/portfolio4.63a0ad85.jpg": "/personal-web/static/media/portfolio4.63a0ad85.jpg",
-    "static/media/portfolio5.96424d5a.jpg": "/personal-web/static/media/portfolio5.96424d5a.jpg",
-    "static/media/portfolio6.48e4604b.jpg": "/personal-web/static/media/portfolio6.48e4604b.jpg"
+    "main.js": "/sorour-j.github.io/static/js/main.577f15e2.chunk.js",
+    "main.js.map": "/sorour-j.github.io/static/js/main.577f15e2.chunk.js.map",
+    "runtime-main.js": "/sorour-j.github.io/static/js/runtime-main.0a225129.js",
+    "runtime-main.js.map": "/sorour-j.github.io/static/js/runtime-main.0a225129.js.map",
+    "static/js/2.b69814b7.chunk.js": "/sorour-j.github.io/static/js/2.b69814b7.chunk.js",
+    "static/js/2.b69814b7.chunk.js.map": "/sorour-j.github.io/static/js/2.b69814b7.chunk.js.map",
+    "index.html": "/sorour-j.github.io/index.html",
+    "static/js/2.b69814b7.chunk.js.LICENSE.txt": "/sorour-j.github.io/static/js/2.b69814b7.chunk.js.LICENSE.txt",
+    "static/media/SorourJahanbin_CV.fd8742e9.pdf": "/sorour-j.github.io/static/media/SorourJahanbin_CV.fd8742e9.pdf",
+    "static/media/avatar.970f3827.jpg": "/sorour-j.github.io/static/media/avatar.970f3827.jpg",
+    "static/media/hero.f30e01c1.jpg": "/sorour-j.github.io/static/media/hero.f30e01c1.jpg",
+    "static/media/me.bd2549ce.jpg": "/sorour-j.github.io/static/media/me.bd2549ce.jpg",
+    "static/media/portfolio1.5ecbac3f.jpg": "/sorour-j.github.io/static/media/portfolio1.5ecbac3f.jpg",
+    "static/media/portfolio2.c0c6c7e8.jpg": "/sorour-j.github.io/static/media/portfolio2.c0c6c7e8.jpg",
+    "static/media/portfolio3.56c400f6.jpg": "/sorour-j.github.io/static/media/portfolio3.56c400f6.jpg",
+    "static/media/portfolio4.63a0ad85.jpg": "/sorour-j.github.io/static/media/portfolio4.63a0ad85.jpg",
+    "static/media/portfolio5.96424d5a.jpg": "/sorour-j.github.io/static/media/portfolio5.96424d5a.jpg",
+    "static/media/portfolio6.48e4604b.jpg": "/sorour-j.github.io/static/media/portfolio6.48e4604b.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.b41aec4d.js",
-    "static/js/2.492d1143.chunk.js",
-    "static/js/main.b9d4a0b1.chunk.js"
+    "static/js/runtime-main.0a225129.js",
+    "static/js/2.b69814b7.chunk.js",
+    "static/js/main.577f15e2.chunk.js"
   ]
 }
