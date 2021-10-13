@@ -200,17 +200,17 @@ export default function Menu() {
                     <Grid item container direction="column" alignItems="center">
                         <Grid item container justify="center" direction="row" spacing={2}>
                             <Grid item>
-                                <a href="https://fmcv.ir" target="_blank" >
+                                <a href="https://www.linkedin.com/in/sorour-jahanbin" target="_blank" >
                                     <FacebookIcon className={classes.icon} />
                                 </a>
                             </Grid>
                             <Grid item>
-                                <a href="https://fmcv.ir" target="_blank" >
+                                <a href="https://www.linkedin.com/in/sorour-jahanbin" target="_blank" >
                                     <TwitterIcon className={classes.icon} />
                                 </a>
                             </Grid>
                             <Grid item>
-                                <a href="https://fmcv.ir" target="_blank" >
+                                <a href="https://www.linkedin.com/in/sorour-jahanbin" target="_blank" >
                                     <InstagramIcon className={classes.icon} />
                                 </a>
                             </Grid>
@@ -223,7 +223,7 @@ export default function Menu() {
                         <Grid item >
                             <Typography align="center" variant="body2" className={classes.copyright} >
                                 © 2021 SOROUR by
-                        <a href="https://fmcv.ir" target="_blank" > fmcv.ir</a>
+                                <a href="https://fmcv.ir" target="_blank" rel="noreferrer" style={{ fontWeight: "bold" }}> fmcv.ir</a>
                             </Typography>
                         </Grid>
                     </Grid>
@@ -283,17 +283,17 @@ export default function Menu() {
                                         <Grid item container direction="column" alignItems="center" style={{ marginTop: "50px" }}>
                                             <Grid item container justify="center" direction="row" spacing={2}>
                                                 <Grid item>
-                                                    <a href="https://fmcv.ir" target="_blank" >
+                                                    <a href="https://www.linkedin.com/in/sorour-jahanbin" target="_blank" >
                                                         <FacebookIcon className={classes.icon} />
                                                     </a>
                                                 </Grid>
                                                 <Grid item>
-                                                    <a href="https://fmcv.ir" target="_blank" >
+                                                    <a href="https://www.linkedin.com/in/sorour-jahanbin" target="_blank" >
                                                         <TwitterIcon className={classes.icon} />
                                                     </a>
                                                 </Grid>
                                                 <Grid item>
-                                                    <a href="https://fmcv.ir" target="_blank" >
+                                                    <a href="https://www.linkedin.com/in/sorour-jahanbin" target="_blank" >
                                                         <InstagramIcon className={classes.icon} />
                                                     </a>
                                                 </Grid>
@@ -306,7 +306,7 @@ export default function Menu() {
                                             <Grid item >
                                                 <Typography align="center" variant="body2" className={classes.copyright} >
                                                     © 2021 SOROUR by
-                                                <a href="https://fmcv.ir" target="_blank" > fmcv.ir</a>
+                                                    <a href="https://fmcv.ir" target="_blank" rel="noreferrer" style={{ fontWeight: "bold" }}> fmcv.ir</a>
                                                 </Typography>
                                             </Grid>
                                         </Grid>

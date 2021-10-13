@@ -49,17 +49,17 @@ const Footer = () => {
                     <Grid item md>
                         <Grid item container justify="center" direction="row" spacing={2}>
                             <Grid item>
-                                <a href="https://fmcv.ir" target="_blank" >
+                                <a href="https://www.linkedin.com/in/sorour-jahanbin" target="_blank" >
                                     <FacebookIcon color="primary" className={classes.icon} />
                                 </a>
                             </Grid>
                             <Grid item>
-                                <a href="https://fmcv.ir" target="_blank" >
+                                <a href="https://www.linkedin.com/in/sorour-jahanbin" target="_blank" >
                                     <TwitterIcon color="primary" className={classes.icon} />
                                 </a>
                             </Grid>
                             <Grid item>
-                                <a href="https://fmcv.ir" target="_blank" >
+                                <a href="https://www.linkedin.com/in/sorour-jahanbin" target="_blank" >
                                     <InstagramIcon color="primary" className={classes.icon} />
                                 </a>
                             </Grid>
