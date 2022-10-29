@@ -56,8 +56,8 @@ const Contact = () => {
 
                                 <Grid item container direction="row">
                                     <Typography variant="subtitle1">PHONE: &nbsp; </Typography>
-                                    <a href="tel:+7488519152" style={{ textDecoration: "none" }}>
-                                        <Typography variant="subtitle2" paragraph>+7488519152</Typography>
+                                    <a href="tel:*****" style={{ textDecoration: "none" }}>
+                                        <Typography variant="subtitle2" paragraph>+****</Typography>
                                     </a>
                                 </Grid>
 
